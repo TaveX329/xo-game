@@ -1,5 +1,7 @@
 # xo game
 
+Easy Game to play with your friends 
+
 Needs package discord.js
 ## Installation
 
@@ -7,7 +9,7 @@ Needs package discord.js
 $ npm install discord.js
 ```
 
-Easy Game to play with your friends
+
 
 ## Example
 ![Loading Example...](https://1.top4top.net/p_12380cc9c1.gif)
