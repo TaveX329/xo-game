@@ -10,4 +10,4 @@ $ npm install discord.js
 Easy Game to play with your friends
 
 ## Example
-![Loading Example...](https://imgur.com/Ffushn6)
+![Loading Example...](https://1.top4top.net/p_12380cc9c1.gif)
